@@ -2,6 +2,14 @@
 
 My spacemacs config files.
 
+** Usage
+
+#+BEGIN_SRC shell
+git clone --depth=1 https://github.com/syl20bnr/spacemacs "${HOME}/.emacs.d.space"
+git clone --depth=1 https://github.com/AirManH/spacemacs_config.git "${HOME}/.spacemacs.d"
+# OR: git clone --depth=1 git@github.com:AirManH/spacemacs_config.git "${HOME}/.spacemacs.d"
+#+END_SRC
+
 ** Helps
 
 - [[https://www.spacemacs.org/layers/LAYERS.html][Spacemacs layers list]]
