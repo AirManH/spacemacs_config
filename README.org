@@ -1,0 +1,8 @@
+* spacemacs_config
+
+My spacemacs config files.
+
+** Helps
+
+- [[https://www.spacemacs.org/layers/LAYERS.html][Spacemacs layers list]]
+- [[https://www.spacemacs.org/doc/DOCUMENTATION.html][Spacemacs documentation]]
