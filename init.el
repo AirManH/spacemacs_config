@@ -60,7 +60,7 @@ This function should only modify configuration layer settings."
      latex
      python
      (ranger :variables
-              ranger-show-preview t)
+             ranger-show-preview t)
      shell-scripts
      yaml)
 
