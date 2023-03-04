@@ -59,7 +59,7 @@ This function should only modify configuration layer settings."
      emacs-lisp
      latex
      python
-     '(ranger :variables
+     (ranger :variables
               ranger-show-preview t)
      shell-scripts
      yaml)
