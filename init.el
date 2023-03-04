@@ -58,7 +58,10 @@ This function should only modify configuration layer settings."
      c-c++
      emacs-lisp
      latex
-     python
+     (python :variables
+             python-backend 'lsp
+             python-lsp-server 'pylsp
+             python-formatter 'black)
      (ranger :variables
              ranger-show-preview t)
      shell-scripts
